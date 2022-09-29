@@ -1,9 +1,3 @@
----
-title: Forecast sites for affordable housing
-date: 2022-06-01T00:00:00.000Z
-summary: Forecast likely sites for affordable housing across New York City and probable number of affordable units on any parcel developed as affordable housing, based on the patterns of units built and preserved under the Housing New York plan. 
----
-
 ![parcels predicted](static/img/units-forecast-map.png)
 
 ### Challenge:
